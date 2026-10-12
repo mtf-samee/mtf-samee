@@ -12,7 +12,9 @@ Keep the assets/ folder beside README.md so the local GIFs load.
 
 ## `00 / la DOSSIER`
 
-<table align="center" border="1" bordercolor="#00E5FF" cellpadding="10" cellspacing="0" bgcolor="#0D1117">
+<p align="center"><img src="assets/dossier-gradient.svg" width="100%" height="6" alt="Cyan-to-purple gradient accent" /></p>
+
+<table align="center" border="1" bordercolor="#164E63" cellpadding="10" cellspacing="0" bgcolor="#0D1117">
   <tr>
     <td align="center" bgcolor="#0D1117">
       <img src="assets/dossier-terminal.gif" width="520" alt="Animated terminal dossier for Artemis; types each line quickly and pauses for three seconds before repeating" />
@@ -31,20 +33,20 @@ Keep the assets/ folder beside README.md so the local GIFs load.
 <table align="center" width="100%" cellpadding="18" cellspacing="0" border="1" bordercolor="#164E63">
   <tr>
     <td align="center" width="33%" valign="top" bgcolor="#0D1117">
-      <img src="https://api.iconify.design/lucide:layers-3.svg?color=%2300E5FF" width="42" alt="Architecture icon" />
+      <img src="assets/telemetry-architecture.svg" width="42" alt="Architecture icon" />
       <h3>ARCHITECTURE</h3>
       Full-stack engineering<br /><br />
       Desktop applications<br /><br />
       Backend and system logic
     </td>
     <td align="center" width="34%" valign="top" bgcolor="#0D1117">
-      <img src="https://api.iconify.design/lucide:shield-check.svg?color=%2300E5FF" width="42" alt="Security icon" />
+      <img src="assets/telemetry-security.svg" width="42" alt="Security icon" />
       <h3>SECURITY</h3>
       Network vulnerability analysis<br /><br />
       Infrastructure auditing
     </td>
     <td align="center" width="33%" valign="top" bgcolor="#0D1117">
-      <img src="https://api.iconify.design/lucide:cpu.svg?color=%2300E5FF" width="42" alt="Hardware icon" />
+      <img src="assets/telemetry-hardware.svg" width="42" alt="Hardware icon" />
       <h3>HARDWARE</h3>
       <br />
       Embedded Systems<br />
