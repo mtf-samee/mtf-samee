@@ -109,6 +109,23 @@ Keep the assets/ folder beside README.md so the local GIFs load.
   </tr>
 </table>
 
+## `05 / CONTACT`
+
+<p align="center">
+  <a href="mailto:mdsameeyo@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-mdsameeyo%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=00E5FF&labelColor=0D1117" alt="Email mdsameeyo@gmail.com" />
+  </a>
+  <a href="tel:+8801518785874">
+    <img src="https://img.shields.io/badge/CALL-%2B8801518785874-0D1117?style=for-the-badge&logo=phone&logoColor=00E5FF&labelColor=0D1117" alt="Call +8801518785874" />
+  </a>
+  <a href="https://www.linkedin.com/in/mtf-samee">
+    <img src="https://img.shields.io/badge/LINKEDIN-mtf--samee-0D1117?style=for-the-badge&logo=linkedin&logoColor=00E5FF&labelColor=0D1117" alt="LinkedIn profile" />
+  </a>
+  <a href="https://www.facebook.com/mtf.samee/">
+    <img src="https://img.shields.io/badge/FACEBOOK-mtf.samee-0D1117?style=for-the-badge&logo=facebook&logoColor=00E5FF&labelColor=0D1117" alt="Facebook profile" />
+  </a>
+</p>
+
 ## `04 / The OLYMPUS`
 
 <p align="center">
