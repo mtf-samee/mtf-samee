@@ -1,16 +1,151 @@
-## Hi there 👋
-
 <!--
-**mtf-samee/mtf-samee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+ARTEMIS // GitHub Profile README
+Copy README.md into the root of the mtf-samee/mtf-samee repository.
+Keep the assets/ folder beside README.md so the local GIFs load.
 -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0D1117,100:00E5FF&height=235&section=header&text=ARTEMIS&fontSize=64&fontColor=00E5FF&descColor=C9D1D9&fontAlignY=36&desc=FROM%20BARE%20METAL%20TO%20THE%20CLOUD%3A%20THE%20ARROW%20NEVER%20MISSES&descAlignY=58&descSize=15&animation=twinkling" width="100%" alt="Animated ARTEMIS cyberpunk header" />
+</p>
+
+<p align="center">
+  <img src="assets/cyber-rain.gif" width="100%" alt="Animated cyan terminal data rain" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/mtf-samee">
+    <img src="https://img.shields.io/badge/GITHUB-mtf--samee-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF&labelColor=0D1117" alt="GitHub profile" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=mtf-samee&label=PROFILE%20VIEWS&color=00E5FF&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/badge/BASE-DHAKA%2C%20BD-0D1117?style=for-the-badge&labelColor=0D1117&color=164E63" alt="Base: Dhaka, Bangladesh" />
+</p>
+
+## `00 / la DOSSIER`
+
+<table align="center" border="1" bordercolor="#00E5FF" cellpadding="10" cellspacing="0" bgcolor="#0D1117">
+  <tr>
+    <td align="center" bgcolor="#0D1117">
+      <img src="assets/dossier-terminal.gif" width="520" alt="Animated terminal dossier for Artemis; types each line quickly and pauses for three seconds before repeating" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2000&pause=1100&color=00E5FF&center=true&vCenter=true&width=800&height=35&lines=Linux+%7C+Networks+%7C+Embedded+Systems;Learn.+Reverse+Engineer.+Build.;Think+Like+an+Attacker.+Build+Like+an+Engineer.;Question+Everything.+Trace+the+Evidence.;Every+Packet+Tells+a+Story.;Understand+the+System.+Then+Secure+It.;From+Silicon+to+Software%2C+From+Local+to+Cloud.;Automate+the+Repeatable.+Investigate+the+Unexpected.;Curiosity+Is+the+First+Tool.;Observe.+Analyze.+Verify.+Improve." alt="Animated areas of focus and cybersecurity mottos" />
+</p>
+
+---
+
+## `01 / la TELEMETRY`
+
+<table align="center" width="100%" cellpadding="18" cellspacing="0" border="1" bordercolor="#164E63">
+  <tr>
+    <td align="center" width="33%" valign="top" bgcolor="#0D1117">
+      <img src="https://api.iconify.design/lucide:layers-3.svg?color=%2300E5FF" width="42" alt="Architecture icon" />
+      <h3>ARCHITECTURE</h3>
+      Full-stack engineering<br /><br />
+      Desktop applications<br /><br />
+      Backend and system logic
+    </td>
+    <td align="center" width="34%" valign="top" bgcolor="#0D1117">
+      <img src="https://api.iconify.design/lucide:shield-check.svg?color=%2300E5FF" width="42" alt="Security icon" />
+      <h3>SECURITY</h3>
+      Network vulnerability analysis<br /><br />
+      Cybersecurity analytics<br /><br />
+      Infrastructure auditing
+    </td>
+    <td align="center" width="33%" valign="top" bgcolor="#0D1117">
+      <img src="https://api.iconify.design/lucide:cpu.svg?color=%2300E5FF" width="42" alt="Hardware icon" />
+      <h3>HARDWARE</h3>
+      <br />
+      Embedded Systems<br />
+      <br />
+      Digital logic and circuits
+    </td>
+  </tr>
+</table>
+
+
+## `02 / la QUIVER`
+
+<p align="center"><strong>LANGUAGES &amp; SYSTEMS</strong></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,python,bash,linux,git,github&theme=dark" alt="C, Python, Bash, Linux, Git and GitHub" />
+</p>
+
+<p align="center"><strong>APPLICATIONS &amp; APIS</strong></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,vue,fastapi,django&theme=dark" alt="Next.js, Vue, FastAPI and Django" />
+</p>
+
+<p align="center"><strong>DATA, EMBEDDED &amp; DEPLOYMENT</strong></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,arduino,raspberrypi,supabase,vercel&theme=dark" alt="PostgreSQL, MySQL, Arduino, Raspberry Pi, Supabase and Vercel" />
+</p>
+
+---
+
+## `03 / EXECUTED PAYLOADS`
+
+<table width="100%" cellpadding="12" cellspacing="0" border="1" bordercolor="#164E63">
+  <tr bgcolor="#0D1117">
+    <th align="left">PROJECT</th>
+    <th align="left">MISSION PROFILE</th>
+    <th align="center">STACK</th>
+  </tr>
+  <tr>
+    <td><strong>Freeze Pharm</strong></td>
+    <td>Autonomous pharmaceutical cold-chain IoT monitor.</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=arduino,nextjs,supabase,vercel&theme=dark" height="28" alt="Arduino, Next.js, Supabase and Vercel" /></td>
+  </tr>
+  <tr>
+    <td><strong>InventaPro</strong></td>
+    <td>High-performance inventory management backend.</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=fastapi,vue,postgres&theme=dark" height="28" alt="FastAPI, Vue and PostgreSQL" /></td>
+  </tr>
+  <tr>
+    <td><strong>Linux Desktop Utilities</strong></td>
+    <td>Standalone AppImage tools, including a Pomodoro timer and alarm clock.</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=c,python,linux&theme=dark" height="28" alt="C, Python and Linux" /></td>
+  </tr>
+  <tr>
+    <td><strong>Hospital OS</strong></td>
+    <td>Comprehensive healthcare administration and data platform.</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=django,python,mysql&theme=dark" height="28" alt="Django, Python and MySQL" /></td>
+  </tr>
+  <tr>
+    <td><strong>Logic Design</strong></td>
+    <td>Three-bit rotator circuit built from basic logic gates and multiplexer structures.</td>
+    <td align="center"><code>Logisim</code><br /><code>Digital Logic</code></td>
+  </tr>
+</table>
+
+## `04 / The OLYMPUS`
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mtf-samee&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9&icon_color=00E5FF" height="175" alt="GitHub statistics" />
+  <img src="https://streak-stats.demolab.com?user=mtf-samee&hide_border=true&background=0D1117&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" height="175" alt="GitHub contribution streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtf-samee&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9" height="175" alt="Most-used programming languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mtf-samee&theme=github_dark" height="175" alt="GitHub profile contribution details" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mtf-samee&bg_color=0D1117&color=C9D1D9&line=00E5FF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub activity graph" />
+</p>
+
+---
+
+<p align="center">
+  <img src="assets/signal-loop.gif" width="100%" alt="Animated signal sweep footer" />
+</p>
+
+<p align="center">
+  <code>TRACE THE SIGNAL.</code> &nbsp; <code>UNDERSTAND THE SYSTEM.</code> &nbsp; <code>BUILD WITH INTENT.</code>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:164E63,100:020617&height=125&section=footer&animation=twinkling" width="100%" alt="Animated footer wave" />
+</p>
