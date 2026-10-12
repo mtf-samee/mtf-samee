@@ -1,9 +1,46 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="260" viewBox="0 0 1200 260">
-  <image x="0" y="0" width="1200" height="260" preserveAspectRatio="xMidYMid slice" href="signal-loop.gif" xlink:href="signal-loop.gif"/>
-  <rect width="1200" height="260" fill="#05090f" fill-opacity="0.62"/>
-  <rect x="20" y="20" width="1160" height="220" rx="8" fill="none" stroke="#00e5ff" stroke-opacity="0.7" stroke-width="1.5"/>
-  <path d="M45 65 H150 M1050 195 H1155" stroke="#00e5ff" stroke-width="2" stroke-opacity="0.9"/>
-  <text x="600" y="125" text-anchor="middle" font-family="monospace" font-size="66" font-weight="700" letter-spacing="10" fill="#00e5ff">ARTEMIS</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260">
+  <defs>
+    <linearGradient id="base" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#05090f"/>
+      <stop offset=".55" stop-color="#07131c"/>
+      <stop offset="1" stop-color="#02050a"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#00e5ff" stop-opacity=".28"/>
+      <stop offset="1" stop-color="#00e5ff" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="softGlow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1200" height="260" fill="url(#base)"/>
+  <ellipse cx="600" cy="130" rx="500" ry="180" fill="url(#glow)"/>
+  <g fill="none" stroke="#00e5ff" stroke-opacity=".15">
+    <path d="M0 55 H240 L270 85 H400 M1200 200 H950 L920 170 H800"/>
+    <path d="M0 210 H170 L205 175 H315 M1200 55 H1010 L980 85 H860"/>
+    <path d="M0 130 H130 M1070 130 H1200"/>
+  </g>
+  <g fill="#00e5ff">
+    <circle cx="105" cy="54" r="2"><animate attributeName="opacity" values=".15;1;.15" dur="3.8s" repeatCount="indefinite"/></circle>
+    <circle cx="270" cy="85" r="2.4"><animate attributeName="opacity" values=".2;.9;.2" dur="5.1s" begin="-2.4s" repeatCount="indefinite"/></circle>
+    <circle cx="400" cy="85" r="1.8"><animate attributeName="opacity" values=".1;.85;.1" dur="4.4s" begin="-1.2s" repeatCount="indefinite"/></circle>
+    <circle cx="1095" cy="200" r="2"><animate attributeName="opacity" values=".1;1;.1" dur="4.7s" begin="-3s" repeatCount="indefinite"/></circle>
+    <circle cx="920" cy="170" r="2.2"><animate attributeName="opacity" values=".15;1;.15" dur="5.6s" begin="-1.8s" repeatCount="indefinite"/></circle>
+    <circle cx="800" cy="170" r="1.8"><animate attributeName="opacity" values=".2;.95;.2" dur="4.1s" begin="-2.7s" repeatCount="indefinite"/></circle>
+    <circle cx="170" cy="210" r="1.8"><animate attributeName="opacity" values=".2;1;.2" dur="5.3s" begin="-3.6s" repeatCount="indefinite"/></circle>
+    <circle cx="1010" cy="55" r="2"><animate attributeName="opacity" values=".1;.9;.1" dur="4.9s" begin="-1.1s" repeatCount="indefinite"/></circle>
+  </g>
+  <path d="M-80 142 H280 L310 132 H430" stroke="#00e5ff" stroke-width="2" stroke-opacity=".7" fill="none">
+    <animate attributeName="stroke-opacity" values=".15;.8;.15" dur="7s" repeatCount="indefinite"/>
+  </path>
+  <path d="M1280 118 H920 L890 128 H770" stroke="#00e5ff" stroke-width="2" stroke-opacity=".65" fill="none">
+    <animate attributeName="stroke-opacity" values=".1;.75;.1" dur="8s" begin="-4s" repeatCount="indefinite"/>
+  </path>
+  <rect x="20" y="20" width="1160" height="220" rx="8" fill="none" stroke="#00e5ff" stroke-opacity=".6" stroke-width="1.5"/>
+  <text x="600" y="125" text-anchor="middle" font-family="monospace" font-size="66" font-weight="700" letter-spacing="10" fill="#00e5ff" filter="url(#softGlow)">ARTEMIS
+    <animate attributeName="opacity" values=".94;1;.94" dur="6s" repeatCount="indefinite"/>
+  </text>
   <text x="600" y="168" text-anchor="middle" font-family="monospace" font-size="17" letter-spacing="2" fill="#e6edf3">FROM BARE METAL TO THE CLOUD</text>
   <text x="600" y="198" text-anchor="middle" font-family="monospace" font-size="14" letter-spacing="3" fill="#8b949e">THE ARROW NEVER MISSES</text>
 </svg>
