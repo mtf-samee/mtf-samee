@@ -70,12 +70,12 @@ Keep the assets/ folder beside README.md so the local GIFs load.
 
 <p align="center"><strong>APPLICATIONS &amp; APIS</strong></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,vue,fastapi,django&theme=dark" alt="Next.js, Vue, FastAPI and Django" />
+  <img src="https://skillicons.dev/icons?i=nextjs,django&theme=dark" alt="Next.js and Django" />
 </p>
 
 <p align="center"><strong>DATA, EMBEDDED &amp; DEPLOYMENT</strong></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,arduino,raspberrypi,supabase,vercel&theme=dark" alt="PostgreSQL, MySQL, Arduino, Raspberry Pi, Supabase and Vercel" />
+  <img src="https://skillicons.dev/icons?i=mysql,arduino,raspberrypi,supabase,vercel&theme=dark" alt="MySQL, Arduino, Raspberry Pi, Supabase and Vercel" />
 </p>
 
 ---
@@ -94,11 +94,6 @@ Keep the assets/ folder beside README.md so the local GIFs load.
     <td align="center"><img src="https://skillicons.dev/icons?i=arduino,nextjs,supabase,vercel&theme=dark" height="28" alt="Arduino, Next.js, Supabase and Vercel" /></td>
   </tr>
   <tr>
-    <td><strong>InventaPro</strong></td>
-    <td>High-performance inventory management backend.</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=fastapi,vue,postgres&theme=dark" height="28" alt="FastAPI, Vue and PostgreSQL" /></td>
-  </tr>
-  <tr>
     <td><strong>Linux Desktop Utilities</strong></td>
     <td>Standalone AppImage tools, including a Pomodoro timer and alarm clock.</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=c,python,linux&theme=dark" height="28" alt="C, Python and Linux" /></td>
@@ -115,7 +110,7 @@ Keep the assets/ folder beside README.md so the local GIFs load.
   </tr>
 </table>
 
-## `04 / GitHub stats`
+## `04 / The OLYMPUS`
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mtf-samee&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9&icon_color=00E5FF&custom_title=GitHub%20Stats" height="175" alt="GitHub statistics" />
@@ -124,7 +119,10 @@ Keep the assets/ folder beside README.md so the local GIFs load.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtf-samee&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9" height="175" alt="Most-used programming languages" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mtf-samee&bg_color=0D1117&color=00E5FF&line=00E5FF&point=C9D1D9&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Dynamic GitHub contribution activity graph" />
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/00E5FF/mtf-samee" width="100%" alt="Dynamic GitHub contribution activity chart" />
 </p>
 
 
