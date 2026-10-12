@@ -5,7 +5,7 @@ Keep the assets/ folder beside README.md so the local GIFs load.
 -->
 
 <p align="center">
-  <img src="assets/artemis-banner.svg" width="100%" alt="ARTEMIS over an animated, darkened cyan signal background" />
+  <img src="assets/artemis-banner.svg" width="100%" alt="ARTEMIS over a dark cyan-purple signal field with subtle animated cyber rain" />
 </p>
 
 
