@@ -22,6 +22,55 @@
   </defs>
   <rect width="1200" height="260" fill="url(#base)"/>
   <ellipse cx="600" cy="130" rx="500" ry="180" fill="url(#glow)"/>
+  <!-- Subtle looping cyber rain: decorative only, behind all existing banner content. -->
+  <g fill="none" stroke-linecap="round" opacity=".52">
+    <g stroke="#00E5FF" stroke-width="1.4">
+      <path d="M92 -34 V-4 M92 8 V44 M92 61 V83">
+        <animateTransform attributeName="transform" type="translate" values="0 -260;0 520" dur="7.2s" repeatCount="indefinite"/>
+      </path>
+      <path d="M188 -80 V-50 M188 -36 V-4 M188 15 V42">
+        <animateTransform attributeName="transform" type="translate" values="0 -260;0 520" dur="9.1s" begin="-3.2s" repeatCount="indefinite"/>
+      </path>
+      <path d="M352 -30 V-5 M352 10 V36 M352 48 V72">
+        <animateTransform attributeName="transform" type="translate" values="0 -260;0 520" dur="8.3s" begin="-5.5s" repeatCount="indefinite"/>
+      </path>
+      <path d="M468 -96 V-60 M468 -43 V-16 M468 0 V27">
+        <animateTransform attributeName="transform" type="translate" values="0 -260;0 520" dur="10.4s" begin="-2.1s" repeatCount="indefinite"/>
+      </path>
+      <path d="M748 -42 V-12 M748 3 V34 M748 47 V65">
+        <animateTransform attributeName="transform" type="translate" values="0 -260;0 520" dur="7.8s" begin="-4.7s" repeatCount="indefinite"/>
+      </path>
+      <path d="M872 -88 V-56 M872 -42 V-15 M872 1 V29">
+        <animateTransform attributeName="transform" type="translate" values="0 -260;0 520" dur="9.7s" begin="-1.4s" repeatCount="indefinite"/>
+      </path>
+      <path d="M1028 -25 V4 M1028 18 V47 M1028 61 V85">
+        <animateTransform attributeName="transform" type="translate" values="0 -260;0 520" dur="8.6s" begin="-6.1s" repeatCount="indefinite"/>
+      </path>
+      <path d="M1120 -70 V-38 M1120 -22 V4 M1120 19 V48">
+        <animateTransform attributeName="transform" type="translate" values="0 -260;0 520" dur="11s" begin="-3.8s" repeatCount="indefinite"/>
+      </path>
+    </g>
+    <g stroke="#A855F7" stroke-width="1.3">
+      <path d="M138 -64 V-35 M138 -20 V10 M138 25 V48">
+        <animateTransform attributeName="transform" type="translate" values="0 -260;0 520" dur="8.9s" begin="-4.3s" repeatCount="indefinite"/>
+      </path>
+      <path d="M294 -24 V7 M294 21 V48 M294 63 V91">
+        <animateTransform attributeName="transform" type="translate" values="0 -260;0 520" dur="10.1s" begin="-1.8s" repeatCount="indefinite"/>
+      </path>
+      <path d="M410 -82 V-54 M410 -39 V-9 M410 7 V35">
+        <animateTransform attributeName="transform" type="translate" values="0 -260;0 520" dur="7.6s" begin="-5.9s" repeatCount="indefinite"/>
+      </path>
+      <path d="M806 -30 V-1 M806 14 V40 M806 56 V82">
+        <animateTransform attributeName="transform" type="translate" values="0 -260;0 520" dur="9.4s" begin="-2.8s" repeatCount="indefinite"/>
+      </path>
+      <path d="M956 -74 V-42 M956 -28 V-1 M956 14 V41">
+        <animateTransform attributeName="transform" type="translate" values="0 -260;0 520" dur="8.1s" begin="-6.3s" repeatCount="indefinite"/>
+      </path>
+      <path d="M1080 -45 V-17 M1080 -2 V25 M1080 40 V67">
+        <animateTransform attributeName="transform" type="translate" values="0 -260;0 520" dur="10.7s" begin="-2.5s" repeatCount="indefinite"/>
+      </path>
+    </g>
+  </g>
   <g fill="none" stroke="url(#accent)" stroke-opacity=".15">
     <path d="M0 55 H240 L270 85 H400 M1200 200 H950 L920 170 H800"/>
     <path d="M0 210 H170 L205 175 H315 M1200 55 H1010 L980 85 H860"/>
