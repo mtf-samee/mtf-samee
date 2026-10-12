@@ -8,12 +8,7 @@ Keep the assets/ folder beside README.md so the local GIFs load.
   <img src="assets/artemis-banner.svg" width="100%" alt="ARTEMIS over an animated, darkened cyan signal background" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/mtf-samee">
-    <img src="https://img.shields.io/badge/GITHUB-mtf--samee-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF&labelColor=0D1117" alt="GitHub profile" />
-  </a>
-  <img src="https://img.shields.io/badge/BASE-DHAKA%2C%20BD-0D1117?style=for-the-badge&labelColor=0D1117&color=164E63" alt="Base: Dhaka, Bangladesh" />
-</p>
+
 
 ## `00 / la DOSSIER`
 
@@ -112,17 +107,25 @@ Keep the assets/ folder beside README.md so the local GIFs load.
 ## `05 / CONTACT`
 
 <p align="center">
+  <a href="https://github.com/mtf-samee">
+    <img src="https://img.shields.io/badge/GitHub-mtf--samee-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF&labelColor=0D1117" alt="GitHub profile" />
+  </a>
+  <a href="https://www.google.com/maps/search/?api=1&query=Dhaka%2C%20Bangladesh">
+    <img src="https://img.shields.io/badge/BASE-Dhaka%2C%20BD-0D1117?style=for-the-badge&labelColor=0D1117&color=164E63" alt="Base: Dhaka, BD — open in Google Maps" />
+  </a>
+</p>
+
+<p align="center">
   <a href="mailto:mdsameeyo@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-mdsameeyo%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=00E5FF&labelColor=0D1117" alt="Email mdsameeyo@gmail.com" />
+    <img src="https://img.shields.io/badge/Email-mdsameeyo%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=00E5FF&labelColor=0D1117" alt="Email mdsameeyo@gmail.com" />
   </a>
-  <a href="tel:+8801518785874">
-    <img src="https://img.shields.io/badge/CALL-%2B8801518785874-0D1117?style=for-the-badge&logo=phone&logoColor=00E5FF&labelColor=0D1117" alt="Call +8801518785874" />
-  </a>
+  <a href="tel:+8801518785874">Call +8801518785874</a>
   <a href="https://www.linkedin.com/in/mtf-samee">
-    <img src="https://img.shields.io/badge/LINKEDIN-mtf--samee-0D1117?style=for-the-badge&logo=linkedin&logoColor=00E5FF&labelColor=0D1117" alt="LinkedIn profile" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="28" alt="LinkedIn logo" />
   </a>
+  <a href="https://www.linkedin.com/in/mtf-samee">LinkedIn profile</a>
   <a href="https://www.facebook.com/mtf.samee/">
-    <img src="https://img.shields.io/badge/FACEBOOK-mtf.samee-0D1117?style=for-the-badge&logo=facebook&logoColor=00E5FF&labelColor=0D1117" alt="Facebook profile" />
+    <img src="https://img.shields.io/badge/Facebook-mtf.samee-0D1117?style=for-the-badge&logo=facebook&logoColor=00E5FF&labelColor=0D1117" alt="Facebook profile" />
   </a>
 </p>
 
