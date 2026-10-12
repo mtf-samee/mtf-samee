@@ -108,26 +108,30 @@ Keep the assets/ folder beside README.md so the local GIFs load.
 
 <p align="center">
   <a href="https://github.com/mtf-samee">
-    <img src="https://img.shields.io/badge/GitHub-mtf--samee-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF&labelColor=0D1117" alt="GitHub profile" />
+    <img src="https://img.shields.io/badge/GitHub-mtf--samee-0D1117?style=flat-square&logo=github&logoColor=00E5FF&labelColor=0D1117" alt="GitHub profile" />
   </a>
   <a href="https://www.google.com/maps/search/?api=1&query=Dhaka%2C%20Bangladesh">
-    <img src="https://img.shields.io/badge/BASE-Dhaka%2C%20BD-0D1117?style=for-the-badge&labelColor=0D1117&color=164E63" alt="Base: Dhaka, BD — open in Google Maps" />
+    <img src="https://img.shields.io/badge/base-Dhaka%2C%20BD-0D1117?style=flat-square&labelColor=0D1117&color=164E63" alt="Base: Dhaka, BD — open in Google Maps" />
   </a>
 </p>
 
 <p align="center">
   <a href="mailto:mdsameeyo@gmail.com">
-    <img src="https://img.shields.io/badge/Email-mdsameeyo%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=00E5FF&labelColor=0D1117" alt="Email mdsameeyo@gmail.com" />
+    <img src="https://img.shields.io/badge/mail-mdsameeyo%40gmail.com-0D1117?style=flat-square&logo=gmail&logoColor=00E5FF&labelColor=0D1117" alt="Mail mdsameeyo@gmail.com" />
   </a>
   <a href="tel:+8801518785874">
-    <img src="https://img.shields.io/badge/Call-%2B8801518785874-0D1117?style=for-the-badge&logo=phone&logoColor=00E5FF&labelColor=0D1117" alt="Call +8801518785874" />
+    <img src="https://img.shields.io/badge/call-%2B8801518785874-0D1117?style=flat-square&logo=phone&logoColor=00E5FF&labelColor=0D1117" alt="Call +8801518785874" />
   </a>
   <a href="https://www.linkedin.com/in/mtf-samee">
-    <img src="https://img.shields.io/badge/LinkedIn-mtf--samee-0D1117?style=for-the-badge&logo=linkedin&logoColor=00E5FF&labelColor=0D1117" alt="LinkedIn profile" />
+    <img src="https://img.shields.io/badge/LinkedIn-mtf--samee-0D1117?style=flat-square&logo=linkedin&logoColor=00E5FF&labelColor=0D1117" alt="LinkedIn profile" />
   </a>
   <a href="https://www.facebook.com/mtf.samee/">
-    <img src="https://img.shields.io/badge/Facebook-mtf.samee-0D1117?style=for-the-badge&logo=facebook&logoColor=00E5FF&labelColor=0D1117" alt="Facebook profile" />
+    <img src="https://img.shields.io/badge/Facebook-mtf.samee-0D1117?style=flat-square&logo=facebook&logoColor=00E5FF&labelColor=0D1117" alt="Facebook profile" />
   </a>
+</p>
+
+<p align="center">
+  <a href="tel:+8801518785874">Tap here to call +8801518785874</a>
 </p>
 
 ## `04 / The OLYMPUS`
