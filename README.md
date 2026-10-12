@@ -5,12 +5,11 @@ Keep the assets/ folder beside README.md so the local GIFs load.
 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0D1117,100:00E5FF&height=235&section=header&text=ARTEMIS&fontSize=64&fontColor=00E5FF&descColor=C9D1D9&fontAlignY=36&desc=FROM%20BARE%20METAL%20TO%20THE%20CLOUD%3A%20THE%20ARROW%20NEVER%20MISSES&descAlignY=58&descSize=15&animation=twinkling" width="100%" alt="Animated ARTEMIS cyberpunk header" />
+  <img src="assets/signal-loop.gif" width="100%" alt="Cyan signal-loop banner" />
 </p>
 
-<p align="center">
-  <img src="assets/cyber-rain.gif" width="100%" alt="Animated cyan terminal data rain" />
-</p>
+<h1 align="center">ARTEMIS</h1>
+<p align="center"><code>FROM BARE METAL TO THE CLOUD: THE ARROW NEVER MISSES</code></p>
 
 <p align="center">
   <a href="https://github.com/mtf-samee">
@@ -139,13 +138,5 @@ Keep the assets/ folder beside README.md so the local GIFs load.
 ---
 
 <p align="center">
-  <img src="assets/signal-loop.gif" width="100%" alt="Animated signal sweep footer" />
-</p>
-
-<p align="center">
   <code>TRACE THE SIGNAL.</code> &nbsp; <code>UNDERSTAND THE SYSTEM.</code> &nbsp; <code>BUILD WITH INTENT.</code>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:164E63,100:020617&height=125&section=footer&animation=twinkling" width="100%" alt="Animated footer wave" />
 </p>
