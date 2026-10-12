@@ -23,7 +23,7 @@ Keep the assets/ folder beside README.md so the local GIFs load.
 </table>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2000&pause=1100&color=00E5FF&center=true&vCenter=true&width=800&height=35&lines=Linux+%7C+Networks+%7C+Embedded+Systems;Learn.+Reverse+Engineer.+Build.;Think+Like+an+Attacker.+Build+Like+an+Engineer.;Question+Everything.+Trace+the+Evidence.;Every+Packet+Tells+a+Story.;Understand+the+System.+Then+Secure+It.;From+Silicon+to+Software%2C+From+Local+to+Cloud.;Automate+the+Repeatable.+Investigate+the+Unexpected.;Curiosity+Is+the+First+Tool.;Observe.+Analyze.+Verify.+Improve." alt="Animated areas of focus and cybersecurity mottos" />
+  <img src="assets/motivation-ticker.svg" width="100%" alt="Looping news-channel-style ticker of cybersecurity and engineering mottos" />
 </p>
 
 ---
