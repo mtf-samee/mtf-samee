@@ -46,7 +46,6 @@ Keep the assets/ folder beside README.md so the local GIFs load.
       <img src="https://api.iconify.design/lucide:shield-check.svg?color=%2300E5FF" width="42" alt="Security icon" />
       <h3>SECURITY</h3>
       Network vulnerability analysis<br /><br />
-      Cybersecurity analytics<br /><br />
       Infrastructure auditing
     </td>
     <td align="center" width="33%" valign="top" bgcolor="#0D1117">
