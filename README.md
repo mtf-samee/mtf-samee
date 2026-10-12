@@ -12,8 +12,6 @@ Keep the assets/ folder beside README.md so the local GIFs load.
   <a href="https://github.com/mtf-samee">
     <img src="https://img.shields.io/badge/GITHUB-mtf--samee-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF&labelColor=0D1117" alt="GitHub profile" />
   </a>
-  <img src="https://api.iconify.design/lucide:eye.svg?color=%2300E5FF" width="18" height="18" alt="Eye icon" />
-  <img src="https://komarev.com/ghpvc/?username=mtf-samee&label=PROFILE%20VIEWS&style=for-the-badge&color=00e5ff" alt="Profile views counter" />
   <img src="https://img.shields.io/badge/BASE-DHAKA%2C%20BD-0D1117?style=for-the-badge&labelColor=0D1117&color=164E63" alt="Base: Dhaka, Bangladesh" />
 </p>
 
@@ -117,22 +115,26 @@ Keep the assets/ folder beside README.md so the local GIFs load.
   </tr>
 </table>
 
-## `04 / The OLYMPUS`
+## `04 / GitHub stats`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mtf-samee&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9&icon_color=00E5FF" height="175" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mtf-samee&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9&icon_color=00E5FF&custom_title=GitHub%20Stats" height="175" alt="GitHub statistics" />
   <img src="https://streak-stats.demolab.com?user=mtf-samee&hide_border=true&background=0D1117&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" height="175" alt="GitHub contribution streak" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtf-samee&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9" height="175" alt="Most-used programming languages" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mtf-samee&theme=github_dark" height="175" alt="GitHub profile contribution details" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mtf-samee&bg_color=0D1117&color=00E5FF&line=00E5FF&point=C9D1D9&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Dynamic GitHub contribution activity graph" />
 </p>
 
-<!-- Animated contribution snake removed: GitHub Actions is currently blocked by an account-level billing lock. -->
+
 
 ---
 
 <p align="center">
   <code>TRACE THE SIGNAL.</code> &nbsp; <code>UNDERSTAND THE SYSTEM.</code> &nbsp; <code>BUILD WITH INTENT.</code>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:164E63,100:0D1117&height=120&section=footer" width="100%" alt="Animated cyan and deep teal wave footer" />
 </p>
