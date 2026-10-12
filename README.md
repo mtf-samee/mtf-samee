@@ -12,7 +12,8 @@ Keep the assets/ folder beside README.md so the local GIFs load.
   <a href="https://github.com/mtf-samee">
     <img src="https://img.shields.io/badge/GITHUB-mtf--samee-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF&labelColor=0D1117" alt="GitHub profile" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=mtf-samee&label=PROFILE%20VIEWS&color=00e5ff" alt="Profile views counter" />
+  <img src="https://api.iconify.design/lucide:eye.svg?color=%2300E5FF" width="18" height="18" alt="Eye icon" />
+  <img src="https://komarev.com/ghpvc/?username=mtf-samee&label=PROFILE%20VIEWS&style=for-the-badge&color=00e5ff" alt="Profile views counter" />
   <img src="https://img.shields.io/badge/BASE-DHAKA%2C%20BD-0D1117?style=for-the-badge&labelColor=0D1117&color=164E63" alt="Base: Dhaka, Bangladesh" />
 </p>
 
@@ -128,10 +129,7 @@ Keep the assets/ folder beside README.md so the local GIFs load.
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mtf-samee&theme=github_dark" height="175" alt="GitHub profile contribution details" />
 </p>
 
-<p align="center"><strong>CONTRIBUTION ACTIVITY</strong></p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mtf-samee/mtf-samee/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub contribution graph" />
-</p>
+<!-- Animated contribution snake removed: GitHub Actions is currently blocked by an account-level billing lock. -->
 
 ---
 
