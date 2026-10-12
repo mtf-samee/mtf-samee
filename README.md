@@ -108,26 +108,26 @@ Keep the assets/ folder beside README.md so the local GIFs load.
 
 <p align="center">
   <a href="https://github.com/mtf-samee" target="_blank" rel="noopener noreferrer"><img src="https://cdn.simpleicons.org/github/00E5FF" width="24" height="24" alt="GitHub" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.google.com/maps/search/?api=1&query=Dhaka%2C%20Bangladesh" target="_blank" rel="noopener noreferrer"><img src="https://api.iconify.design/lucide:map-pin.svg?color=%2300E5FF" width="24" height="24" alt="Location" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.google.com/maps/search/?api=1&query=Dhaka%2C%20Bangladesh" target="_blank" rel="noopener noreferrer"><img src="https://api.iconify.design/lucide:map-pin.svg?color=%23A855F7" width="24" height="24" alt="Location" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:mdsameeyo@gmail.com"><img src="https://cdn.simpleicons.org/gmail/00E5FF" width="24" height="24" alt="Email" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="tel:+8801518785874"><img src="https://api.iconify.design/lucide:phone.svg?color=%2300E5FF" width="24" height="24" alt="Call +8801518785874" /> <span>+8801518785874</span></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/mtf-samee" target="_blank" rel="noopener noreferrer"><img src="https://api.iconify.design/simple-icons:linkedin.svg?color=%2300E5FF" width="24" height="24" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.facebook.com/mtf.samee/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.simpleicons.org/facebook/00E5FF" width="24" height="24" alt="Facebook" /></a>
+  <a href="tel:+8801518785874"><img src="https://api.iconify.design/lucide:phone.svg?color=%2300E5FF" width="24" height="24" alt="Phone" /></a>&nbsp;<a href="tel:+8801518785874"><sup>+8801518785874</sup></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/mtf-samee" target="_blank" rel="noopener noreferrer"><img src="https://api.iconify.design/simple-icons:linkedin.svg?color=%23A855F7" width="24" height="24" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.facebook.com/mtf.samee/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.simpleicons.org/facebook/A855F7" width="24" height="24" alt="Facebook" /></a>
 </p>
 
 ## `04 / The OLYMPUS`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mtf-samee&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9&icon_color=00E5FF&custom_title=GitHub%20Stats" height="175" alt="GitHub statistics" />
-  <img src="https://streak-stats.demolab.com?user=mtf-samee&hide_border=true&background=0D1117&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" height="175" alt="GitHub contribution streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mtf-samee&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9&icon_color=00E5FF&custom_title=GitHub%20Stats" height="175" alt="GitHub statistics" />
+  <img src="https://streak-stats.demolab.com?user=mtf-samee&hide_border=true&background=0D1117&ring=A855F7&fire=00E5FF&currStreakLabel=A855F7&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" height="175" alt="GitHub contribution streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtf-samee&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9" height="175" alt="Most-used programming languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtf-samee&layout=compact&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9" height="175" alt="Most-used programming languages" />
 </p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/00E5FF/mtf-samee" width="100%" alt="Dynamic GitHub contribution activity chart" />
+  <img src="https://ghchart.rshah.org/A855F7/mtf-samee" width="100%" alt="Dynamic GitHub contribution activity chart" />
 </p>
 
 
@@ -139,5 +139,5 @@ Keep the assets/ folder beside README.md so the local GIFs load.
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:164E63,100:0D1117&height=120&section=footer&animation=twinkling" width="100%" alt="Animated cyan and deep teal wave footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,45:A855F7,75:164E63,100:0D1117&height=120&section=footer&animation=twinkling" width="100%" alt="Animated cyan and deep teal wave footer" />
 </p>
