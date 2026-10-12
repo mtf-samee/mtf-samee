@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="260" viewBox="0 0 1200 260">
+  <image x="0" y="0" width="1200" height="260" preserveAspectRatio="xMidYMid slice" href="signal-loop.gif" xlink:href="signal-loop.gif"/>
+  <rect width="1200" height="260" fill="#05090f" fill-opacity="0.62"/>
+  <rect x="20" y="20" width="1160" height="220" rx="8" fill="none" stroke="#00e5ff" stroke-opacity="0.7" stroke-width="1.5"/>
+  <path d="M45 65 H150 M1050 195 H1155" stroke="#00e5ff" stroke-width="2" stroke-opacity="0.9"/>
+  <text x="600" y="125" text-anchor="middle" font-family="monospace" font-size="66" font-weight="700" letter-spacing="10" fill="#00e5ff">ARTEMIS</text>
+  <text x="600" y="168" text-anchor="middle" font-family="monospace" font-size="17" letter-spacing="2" fill="#e6edf3">FROM BARE METAL TO THE CLOUD</text>
+  <text x="600" y="198" text-anchor="middle" font-family="monospace" font-size="14" letter-spacing="3" fill="#8b949e">THE ARROW NEVER MISSES</text>
+</svg>
