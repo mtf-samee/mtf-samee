@@ -106,15 +106,15 @@ Keep the assets/ folder beside README.md so the local GIFs load.
   </tr>
 </table>
 
-## `05 / CONTACT`
+## `05 / Hit me up`
 
 <p align="center">
-  <a href="https://github.com/mtf-samee" target="_blank" rel="noopener noreferrer"><img src="https://cdn.simpleicons.org/github/00E5FF" width="24" height="24" alt="GitHub" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.google.com/maps/search/?api=1&query=Dhaka%2C%20Bangladesh" target="_blank" rel="noopener noreferrer"><img src="https://api.iconify.design/lucide:map-pin.svg?color=%2300E5FF" width="24" height="24" alt="Location" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:mdsameeyo@gmail.com"><img src="https://cdn.simpleicons.org/gmail/00E5FF" width="24" height="24" alt="Email" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="tel:+8801518785874"><img src="https://api.iconify.design/lucide:phone.svg?color=%2300E5FF" width="24" height="24" alt="Phone" /></a>&nbsp;<a href="tel:+8801518785874"><sup>+8801518785874</sup></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/mtf-samee" target="_blank" rel="noopener noreferrer"><img src="https://api.iconify.design/simple-icons:linkedin.svg?color=%2300E5FF" width="24" height="24" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.facebook.com/mtf.samee/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.simpleicons.org/facebook/00E5FF" width="24" height="24" alt="Facebook" /></a>
+  <a href="https://github.com/mtf-samee" target="_blank" rel="noopener noreferrer"><img src="assets/contact-github.svg" width="24" height="24" alt="GitHub" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.google.com/maps/search/?api=1&query=Dhaka%2C%20Bangladesh" target="_blank" rel="noopener noreferrer"><img src="assets/contact-location.svg" width="24" height="24" alt="Location" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:mdsameeyo@gmail.com"><img src="assets/contact-email.svg" width="24" height="24" alt="Email" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="tel:+8801518785874"><img src="assets/contact-phone.svg" width="24" height="24" alt="Phone" /></a>&nbsp;<a href="tel:+8801518785874"><sup>+8801518785874</sup></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/mtf-samee" target="_blank" rel="noopener noreferrer"><img src="assets/contact-linkedin.svg" width="24" height="24" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.facebook.com/mtf.samee/" target="_blank" rel="noopener noreferrer"><img src="assets/contact-facebook.svg" width="24" height="24" alt="Facebook" /></a>
 </p>
 
 ## `04 / The OLYMPUS`
