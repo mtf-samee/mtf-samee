@@ -119,11 +119,12 @@ Keep the assets/ folder beside README.md so the local GIFs load.
   <a href="mailto:mdsameeyo@gmail.com">
     <img src="https://img.shields.io/badge/Email-mdsameeyo%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=00E5FF&labelColor=0D1117" alt="Email mdsameeyo@gmail.com" />
   </a>
-  <a href="tel:+8801518785874">Call +8801518785874</a>
-  <a href="https://www.linkedin.com/in/mtf-samee">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="28" alt="LinkedIn logo" />
+  <a href="tel:+8801518785874">
+    <img src="https://img.shields.io/badge/Call-%2B8801518785874-0D1117?style=for-the-badge&logo=phone&logoColor=00E5FF&labelColor=0D1117" alt="Call +8801518785874" />
   </a>
-  <a href="https://www.linkedin.com/in/mtf-samee">LinkedIn profile</a>
+  <a href="https://www.linkedin.com/in/mtf-samee">
+    <img src="https://img.shields.io/badge/LinkedIn-mtf--samee-0D1117?style=for-the-badge&logo=linkedin&logoColor=00E5FF&labelColor=0D1117" alt="LinkedIn profile" />
+  </a>
   <a href="https://www.facebook.com/mtf.samee/">
     <img src="https://img.shields.io/badge/Facebook-mtf.samee-0D1117?style=for-the-badge&logo=facebook&logoColor=00E5FF&labelColor=0D1117" alt="Facebook profile" />
   </a>
