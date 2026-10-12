@@ -23,7 +23,7 @@ Keep the assets/ folder beside README.md so the local GIFs load.
 </table>
 
 <p align="center">
-  <img src="assets/motivation-ticker.svg" width="100%" alt="Looping news-channel-style ticker of cybersecurity and engineering mottos" />
+  <img src="https://raw.githubusercontent.com/mtf-samee/mtf-samee/main/assets/motivation-ticker.svg" width="100%" alt="Looping news-channel-style ticker of cybersecurity and engineering mottos" />
 </p>
 
 ---
