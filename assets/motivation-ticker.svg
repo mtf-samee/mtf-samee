@@ -16,6 +16,7 @@
   <g clip-path="url(#window)">
     <g transform="translate(106 0)">
       <g>
+        <animateTransform attributeName="transform" type="translate" from="0 0" to="-800 0" dur="20s" repeatCount="indefinite"/>
         <text x="0" y="25" font-family="monospace" font-size="13" font-weight="600" fill="#00E5FF">LEARN. REVERSE ENGINEER. BUILD.</text>
         <text x="265" y="25" font-family="monospace" font-size="13" fill="#A855F7">◆</text>
         <text x="292" y="25" font-family="monospace" font-size="13" font-weight="600" fill="#C9D1D9">THINK LIKE AN ATTACKER. BUILD LIKE AN ENGINEER.</text>
@@ -29,7 +30,7 @@
         <text x="650" y="25" font-family="monospace" font-size="13" fill="#A855F7">◆</text>
         <text x="677" y="25" font-family="monospace" font-size="13" font-weight="600" fill="#00E5FF">TRACE THE EVIDENCE.</text>
       </g>
-      <animateTransform attributeName="transform" type="translate" from="0 0" to="-800 0" dur="20s" repeatCount="indefinite"/>
+      </g>
     </g>
   </g>
 </svg>
