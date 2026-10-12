@@ -136,5 +136,5 @@ Keep the assets/ folder beside README.md so the local GIFs load.
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:164E63,100:0D1117&height=120&section=footer" width="100%" alt="Animated cyan and deep teal wave footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:164E63,100:0D1117&height=120&section=footer&animation=twinkling" width="100%" alt="Animated cyan and deep teal wave footer" />
 </p>
